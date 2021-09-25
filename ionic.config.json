@@ -1,0 +1,7 @@
+{
+  "name": "bibliacomcafe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
